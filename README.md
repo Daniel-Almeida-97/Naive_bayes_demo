@@ -5,6 +5,7 @@ Demonstração de conceito Naive Bayes.
 
 Descrição:
 Programa feito em Python para demonstrar o algoritmo de Naive Bayes.
+Antes é recomendado ler o artigo em pdf "Uma discussão sobre o Algoritmo de Naive Bayes".
 
 Pré-requisitos:
 Python, versão 3 em diante.
