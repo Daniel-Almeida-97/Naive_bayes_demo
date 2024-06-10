@@ -1,0 +1,15 @@
+historico,tdirigindo,vistoria,kmedio,risco
+ruim,pouco,nenhuma,acima_100km,alto
+desconhecido,pouco,nenhuma,40km_100km,alto
+desconhecido,muito,nenhuma,40km_100km,moderado
+desconhecido,muito,nenhuma,5km_40Km,alto
+desconhecido,muito,nenhuma,5km_40Km,baixo
+desconhecido,muito,nenhuma,5km_40Km,baixo
+ruim,muito,nenhuma,acima_100km,alto
+ruim,muito,adequada,5km_40Km,moderado
+bom,muito,nenhuma,5km_40Km,baixo
+bom,pouco,adequada,5km_40Km,baixo
+bom,pouco,nenhuma,acima_100km,alto
+bom,pouco,nenhuma,40km_100km,moderado
+bom,pouco,nenhuma,5km_40Km,baixo
+ruim,pouco,nenhuma,40km_100km,alto
